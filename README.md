@@ -70,6 +70,8 @@ The optimized build files will be available in the `build` directory.
 
 ## 🖼️ Preview
 
+![image](https://github.com/user-attachments/assets/b8b9fb34-1182-47be-9955-0c6ffc79de5b)
+
 
 ## 🤝 Contributing
 
