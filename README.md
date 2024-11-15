@@ -26,6 +26,9 @@ This project is a **Kanban Board** application built with modern web technologie
 
 Follow these steps to get the project up and running locally:
 
+## Live Link
+https://kanban-board-beige-psi.vercel.app/
+
 ### Prerequisites
 
 Ensure you have the following installed on your system:
